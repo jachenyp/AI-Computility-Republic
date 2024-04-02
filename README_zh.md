@@ -12,4 +12,4 @@ AI算力超级昂贵, 一次chatgpt的模型训练就得话费上千万美金.  
 
 
 ## 构思图
-![系统构思图](./asset/ai_repulic.jpg "系统构思图")
+![系统构思图](./asset/ai_repulic.png "系统构思图")
